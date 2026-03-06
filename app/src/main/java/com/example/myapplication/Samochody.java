@@ -24,35 +24,35 @@ public class Samochody {
         this.rocznik = rocznik;
     }
 
-    public String getmarka() {
+    public String getMarka() {
         return marka;
     }
 
-    public void setmarka(String marka) {
+    public void setMarka(String marka) {
         this.marka = marka;
     }
 
-    public String getmodel() {
+    public String getModel() {
         return model;
     }
 
-    public void setmodel(String model) {
+    public void setModel(String model) {
         this.model = model;
     }
 
-    public int getprzebieg() {
+    public int getPrzebieg() {
         return przebieg;
     }
 
-    public void setprzebieg(int przebieg) {
+    public void setPrzebieg(int przebieg) {
         this.przebieg = przebieg;
     }
 
-    public int getrocznik() {
+    public int getRocznik() {
         return rocznik;
     }
 
-    public void setrocznik(int rocznik) {
+    public void setRocznik(int rocznik) {
         this.rocznik = rocznik;
     }
 
