@@ -21,8 +21,8 @@ public interface SamochodyDao {
     @Update
     public void zaktualizuj(Samochody samochody);
 
-    @Query("Select * from samochody_tabela")
-    List<Samochody> zwrocWszystkieSamochodyZBazy();
+    @Query("SELECT * FROM samochody_tabela")
+    List<Samochody> pobierzWszystkieSamochody();
 
 }
 
